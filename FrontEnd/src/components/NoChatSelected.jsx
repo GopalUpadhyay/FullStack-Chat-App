@@ -17,7 +17,7 @@ const NoChatSelected = () => {
 				</div>
 
 				{/* Welcome Text */}
-				<h2 className="text-2xl font-bold">Welcome to Chatty!</h2>
+				<h2 className="text-2xl font-bold">Welcome to Chat UP!</h2>
 				<p className="text-base-content/60">
 					Your Personalised Contact Free Chat Assistant
 				</p>
