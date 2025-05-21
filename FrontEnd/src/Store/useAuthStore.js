@@ -29,7 +29,7 @@ export const useAuthStore = create((set, get) => ({
 		}
 	},
 
-	signup: async (data) => {
+	signUp: async (data) => {
 		set({ isSigningUp: true });
 		try {
 			const res = await axiosInstance.post("/auth/signup", data);
